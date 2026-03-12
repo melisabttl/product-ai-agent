@@ -1,168 +1,183 @@
-# UX Prism AI
+# UX AI Agent
 
-![LLM Skill](https://img.shields.io/badge/Type-LLM%20Skill-111827)
-![Claude Compatible](https://img.shields.io/badge/Claude-Compatible-D97706)
-![Custom GPT Ready](https://img.shields.io/badge/Custom%20GPT-Ready-059669)
-![Focus](https://img.shields.io/badge/Focus-UX%20Reasoning-2563EB)
+<p align="left">
+  <img src="https://img.shields.io/badge/type-llm%20skill-111827" alt="Type: LLM Skill" />
+  <img src="https://img.shields.io/badge/claude-compatible-D97706" alt="Claude Compatible" />
+  <img src="https://img.shields.io/badge/custom%20gpt-ready-059669" alt="Custom GPT Ready" />
+  <img src="https://img.shields.io/badge/focus-ux%20reasoning-2563EB" alt="Focus: UX Reasoning" />
+</p>
 
-**A high-performance UX reasoning framework for designers, product managers, and researchers who need a sharp thinking partner—not a generic feature suggester.**
+**UX AI Agent** is a structured UX reasoning framework for designers, product managers, and researchers who need a sharp thinking partner, not a generic feature suggester.
 
-UX Prism AI is built to interrogate product and design problems before offering direction. It operates at the intersection of **UX strategy**, **behavioral psychology**, **product thinking**, and **ethics**, helping teams challenge assumptions, expose trade-offs, and make stronger decisions before they ship.
+It transforms a general-purpose language model into a focused UX collaborator with a defined critical posture, strict reasoning standards, vocabulary constraints, and three operating modes for different decision contexts.
+
+This is **not** a collection of UX tips.  
+It is a **reasoning system** built to interrogate problems before offering direction.
 
 ---
 
-## Why UX Prism AI Exists
+## Why This Exists
 
-Most AI UX tools generate surface-level suggestions.  
-UX Prism AI is built to do something harder:
+Most AI UX assistants generate surface-level suggestions.
+
+UX AI Agent is built to do something harder:
 
 - question the framing
-- challenge weak reasoning
-- surface hidden constraints
-- take a position with clarity
+- challenge weak assumptions
+- expose hidden constraints
+- clarify trade-offs
+- take a position with conviction
 
-This is **not** a prompt pack.  
-It is **not** a library of UX tips.  
-It is a **structured reasoning system** for teams working through decisions that matter.
+The goal is not to generate more ideas.  
+The goal is to produce **better judgment**.
 
 ---
 
 ## What This Project Is
 
-UX Prism AI is a structured skill definition designed for:
+UX AI Agent is a structured skill definition designed for:
 
 - **Claude (Anthropic)**
 - **custom GPTs**
 - **any LLM platform that supports system-level instructions**
 
-It transforms a general-purpose language model into a focused UX reasoning partner with:
+It turns a general-purpose model into a UX reasoning partner that:
 
-- a defined critical posture
-- strict vocabulary constraints
-- clear reasoning standards
-- three operational modes for different decision contexts
-
-The goal is not to produce more ideas.  
-The goal is to produce **better judgment**.
+- thinks critically instead of performing agreement
+- evaluates decisions through product, behavioral, and ethical lenses
+- avoids vague, inflated, or corporate language
+- gives sharper guidance when the stakes are high
 
 ---
 
-## Who It’s Built For
+## Who It’s For
 
-UX Prism AI is built for:
+UX AI Agent is built for:
 
 - **Senior UX designers** navigating ambiguity at scale
-- **Product leads** making trade-off decisions under constraint
-- **Design researchers** who want a second opinion with substance
-- **Cross-functional teams** pressure-testing product decisions before launch
+- **Product managers** making trade-off decisions under constraint
+- **Design researchers** who want a second opinion with rigor
+- **Cross-functional teams** pressure-testing decisions before launch
 
 ---
 
 ## Core Capabilities
 
-### Structured UX reasoning
-The agent does not jump to solutions. It examines the problem, the assumptions behind it, and the trade-offs that shape the outcome.
+### Structured UX Reasoning
+The agent does not rush to solutions. It examines the problem, the assumptions behind it, and the trade-offs that shape the outcome.
 
-### Position-taking
-It does not offer five equally safe options and ask you to choose. It takes a stance and explains why that stance is stronger.
+### Position-Taking
+It does not present five equally safe options and ask you to choose. It takes a stance and explains why.
 
-### Constraint awareness
-It accounts for behavioral, operational, ethical, and product constraints instead of treating UX as an isolated layer.
+### Constraint Awareness
+It considers behavioral, operational, ethical, and product constraints instead of treating UX as an isolated layer.
 
-### Critical challenge
+### Critical Challenge
 It is designed to interrogate confidence, not reinforce it blindly.
 
 ---
 
 ## Operational Modes
 
-### Strategic Mode _(Default)_
+### Strategic Mode *(default)*
 Deep analysis for decisions with meaningful downstream consequences.
 
 Use this mode when you need to:
 
 - examine trade-offs
-- identify hidden constraints
-- reference real-world patterns or failure modes
-- make a decision that is hard to reverse
+- surface hidden constraints
+- reference patterns or failure modes
+- take a position on a complex decision
 
-Best for: product direction, flow design, onboarding strategy, platform UX, AI feature decisions.
-
----
+Best for: onboarding, navigation systems, platform UX, enterprise workflows, and AI-assisted experiences.
 
 ### Direct Mode
 One recommendation. Minimal hedging. Compressed reasoning.
 
 Use this mode when:
 
-- speed matters
-- the team needs a clear next move
-- you want a judgment, not a workshop
+- time is limited
+- a decision must be made quickly
+- you need a recommendation, not a workshop
 
-Best for: quick decisions, prioritization, design reviews, execution calls.
-
----
+Best for: reviews, prioritization, quick product calls, and execution decisions.
 
 ### Provocative Mode
-Adversarial reasoning designed to break weak logic before the market does.
+Adversarial reasoning designed to break weak logic before users do.
 
 Use this mode when you want to:
 
-- challenge your assumptions
-- pressure-test your rationale
-- expose blind spots before launch
+- challenge assumptions
+- pressure-test rationale
+- expose blind spots before finalizing a direction
 
-Best for: validating confidence, reviewing polished concepts, interrogating “obvious” solutions.
+Best for: high-confidence ideas, risky launches, internal debate, and decision validation.
 
 ---
 
 ## Design Principles
 
-### Positions, not suggestions
-UX Prism AI takes a clear position. It explains why one path is stronger than another.
+### Positions, Not Suggestions
+UX AI Agent takes a stance. It explains why one path is stronger than another.
 
-### Evidence before opinion
-Claims are grounded in principles, user behavior, product logic, or known failure patterns.
+### Evidence Before Opinion
+Claims should be grounded in UX principles, user behavior, product logic, or known failure patterns.
 
-### Clarity under complexity
-As the problem gets harder, the reasoning gets sharper—not more abstract.
+### Clarity Under Complexity
+As the problem gets harder, the reasoning should become sharper, not more abstract.
 
-### No performative hedging
-It does not hide behind endless qualifiers. It considers context, then commits.
+### Commitment Over Hedging
+The system accounts for context, then makes a judgment.
 
 ---
+
+## Quick Start
+
+### Positions, Not Suggestions
+UX AI Agent takes a stance. It explains why one path is stronger than another.
+
+### Evidence Before Opinion
+Claims should be grounded in UX principles, user behavior, product logic, or known failure patterns.
+
+### Clarity Under Complexity
+As the problem gets harder, the reasoning should become sharper, not more abstract.
+
+### Commitment Over Hedging
+The system accounts for context, then makes a judgment.
+
+---
+
+
 
 ## Repository Structure
 
 ```text
-ux-wise-agent/
-├── README.md                         ← This file
-├── skill.md                         ← Master skill definition
+ux-ai-agent/
+├── README.md                         ← Project overview
+├── skill.md                          ← Master skill definition
 ├── prompts/
-│   ├── system-prompt.md             ← Full system prompt for Claude and compatible LLMs
-│   ├── starter-prompts.md           ← Curated prompt library
-│   ├── strategic-mode.md            ← Strategic Mode prompt layer
-│   ├── direct-mode.md               ← Direct Mode prompt layer
-│   └── provocative-mode.md          ← Provocative Mode prompt layer
+│   ├── system-prompt.md              ← Full system prompt for Claude and compatible LLMs
+│   ├── starter-prompts.md            ← Curated prompt library
+│   ├── strategic-mode.md             ← Strategic Mode prompt layer
+│   ├── direct-mode.md                ← Direct Mode prompt layer
+│   └── provocative-mode.md           ← Provocative Mode prompt layer
 ├── examples/
-│   ├── onboarding-analysis.md       ← Strategic Mode example
-│   ├── checkout-friction.md         ← Direct Mode example
-│   └── navigation-challenge.md      ← Provocative Mode example
+│   ├── onboarding-analysis.md        ← Strategic Mode example
+│   ├── checkout-friction.md          ← Direct Mode example
+│   └── navigation-challenge.md       ← Provocative Mode example
 ├── knowledge/
-│   ├── ux-principles.md             ← Core UX knowledge base summary
-│   ├── heuristics.md                ← Nielsen’s heuristics with applied commentary
-│   └── ai-ux-considerations.md      ← AI-specific UX reasoning guide
+│   ├── ux-principles.md              ← Core UX knowledge base summary
+│   ├── heuristics.md                 ← Nielsen heuristics with applied commentary
+│   └── ai-ux-considerations.md       ← AI-specific UX reasoning guide
 ├── integrations/
-│   ├── claude-skill.md              ← How to use with Claude Projects or API workflows
-│   ├── custom-gpt.md                ← How to deploy in OpenAI custom GPTs
-│   └── api-usage.md                 ← Direct API usage with system prompt injection
+│   ├── claude-skill.md               ← How to use in Claude Projects or API workflows
+│   ├── custom-gpt.md                 ← How to deploy in OpenAI custom GPTs
+│   └── api-usage.md                  ← Direct API usage with system prompt injection
 └── docs/
-    ├── contribution-guide.md        ← How to extend or refine the skill
-    ├── vocabulary-constraints.md    ← Banned words, reasoning standards, and tone rules
-    └── changelog.md                 ← Version history
+    ├── contribution-guide.md         ← How to extend or refine the skill
+    ├── vocabulary-constraints.md     ← Banned words, reasoning standards, and tone rules
+    └── changelog.md                  ← Version history
 
 
 
 
-# ux-agent-
-UX AI is a structured skill definition that turns general purpose LLMs into focused UX reasoning partners with a critical posture, constrained vocabulary, and three operational modes.

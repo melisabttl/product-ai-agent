@@ -4,7 +4,7 @@
 
 ## v1.0.0 — Initial Release
 
-**Release date:** 2025
+**Release date:** 2026
 
 **What this version establishes:**
 

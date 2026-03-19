@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/focus-ux%20reasoning-2563EB" alt="Focus: Product Reasoning" />
 </p>
 
-**Product AI Agent** is a structured UX reasoning framework for designers, product managers, and researchers who need a sharp thinking partner, not a generic feature suggester.
+**Product AI Agent** is a structured Product reasoning framework for product managers, designers and researchers who need a sharp thinking partner, not a generic feature suggester.
 
 It transforms a general-purpose language model into a focused UX collaborator with a defined critical posture, strict reasoning standards, vocabulary constraints, and three operating modes for different decision contexts.
 

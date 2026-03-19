@@ -4,10 +4,10 @@
   <img src="https://img.shields.io/badge/type-llm%20skill-111827" alt="Type: LLM Skill" />
   <img src="https://img.shields.io/badge/claude-compatible-D97706" alt="Claude Compatible" />
   <img src="https://img.shields.io/badge/custom%20gpt-ready-059669" alt="Custom GPT Ready" />
-  <img src="https://img.shields.io/badge/focus-ux%20reasoning-2563EB" alt="Focus: UX Reasoning" />
+  <img src="https://img.shields.io/badge/focus-ux%20reasoning-2563EB" alt="Focus: Product Reasoning" />
 </p>
 
-**UX AI Agent** is a structured UX reasoning framework for designers, product managers, and researchers who need a sharp thinking partner, not a generic feature suggester.
+**Product AI Agent** is a structured UX reasoning framework for designers, product managers, and researchers who need a sharp thinking partner, not a generic feature suggester.
 
 It transforms a general-purpose language model into a focused UX collaborator with a defined critical posture, strict reasoning standards, vocabulary constraints, and three operating modes for different decision contexts.
 
@@ -18,9 +18,9 @@ It is a **reasoning system** built to interrogate problems before offering direc
 
 ## Why This Exists
 
-Most AI UX assistants generate surface-level suggestions.
+Most AI Product assistants generate surface-level suggestions.
 
-UX AI Agent is built to do something harder:
+Product AI Agent is built to do something harder:
 
 - question the framing
 - challenge weak assumptions
@@ -35,7 +35,7 @@ The goal is to produce **better judgment**.
 
 ## What This Project Is
 
-UX AI Agent is a structured skill definition designed for:
+Product AI Agent is a structured skill definition designed for:
 
 - **Claude (Anthropic)**
 - **custom GPTs**
@@ -52,7 +52,7 @@ It turns a general-purpose model into a UX reasoning partner that:
 
 ## Who It’s For
 
-UX AI Agent is built for:
+Product AI Agent is built for:
 
 - **Product managers** making trade-off decisions under constraint
 - **Cross-functional teams** pressure-testing decisions before launch
@@ -118,7 +118,7 @@ Best for: high-confidence ideas, risky launches, internal debate, and decision v
 ## Design Principles
 
 ### Positions, Not Suggestions
-UX AI Agent takes a stance. It explains why one path is stronger than another.
+Product AI Agent takes a stance. It explains why one path is stronger than another.
 
 ### Evidence Before Opinion
 Claims should be grounded in UX principles, user behavior, product logic, or known failure patterns.

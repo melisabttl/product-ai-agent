@@ -1,4 +1,4 @@
-# UX AI Agent
+# Product reasoning for complex decisions AI Agent
 
 <p align="left">
   <img src="https://img.shields.io/badge/type-llm%20skill-111827" alt="Type: LLM Skill" />
